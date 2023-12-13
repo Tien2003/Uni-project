@@ -1,0 +1,15 @@
+Scikit-learn is a very popular tool, and the most prominent Python library for machine learning. It is widely used in industry and academia, and a wealth of tutorials and code snippets are available online. Scikit-learn works well with a number of other scientific Python tools. In this task, you will need to programming by utilizing Scikit-learn's packages.
+
+Download the breast cancer dataset from sklearn and split the breast cancer dataset with 10-fold cross validation. (1 Marks)
+
+Build a Support Vector Classifier (SVC) model using sklearn. You need to set the hyper-parameter by yourself. (2 Marks)
+
+Besides SVC model, please build another types of classifier for this problem (breast cancer classification) in sklearn (2 Marks)
+
+Evaluate the classification performances of the above-mentioned two models with (3 Marks):
+
+(1) accuracy
+
+(2) F1-score
+
+(3) AUC-ROC score
